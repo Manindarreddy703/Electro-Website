@@ -1,0 +1,797 @@
+[
+  {
+    "id": "p01",
+    "slug": "macbook-pro-16-m4",
+    "name": "MacBook Pro 16\" M4",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 2499,
+    "discountPrice": 2299,
+    "shortDescription": "Pro-level performance in a 16-inch powerhouse.",
+    "description": "The MacBook Pro 16\" with the M4 chip delivers exceptional performance for demanding workflows — from color grading 8K video to compiling large codebases. A stunning Liquid Retina XDR display, up to 22 hours of battery life, and a six-speaker sound system make it the definitive machine for professionals who refuse to compromise.",
+    "rating": 4.8,
+    "reviewCount": 342,
+    "stock": 24,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "Apple M4 Pro, 14-core CPU"
+      },
+      {
+        "label": "Display",
+        "value": "16.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Memory",
+        "value": "36GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Weight",
+        "value": "2.15 kg"
+      }
+    ],
+    "colors": ["Space Black", "Silver"],
+    "storage": ["512GB", "1TB", "2TB"],
+    "tags": ["laptop", "apple", "pro", "featured"]
+  },
+  {
+    "id": "p02",
+    "slug": "macbook-air-15-m3",
+    "name": "MacBook Air 15\" M3",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 1499,
+    "discountPrice": null,
+    "shortDescription": "Strikingly thin. Impressively capable.",
+    "description": "MacBook Air 15\" with M3 brings a spacious Liquid Retina display and all-day battery life to the thinnest laptop Apple makes. Fanless and silent, it handles everyday productivity, creative projects, and light development work with ease.",
+    "rating": 4.7,
+    "reviewCount": 508,
+    "stock": 40,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "Apple M3, 8-core CPU"
+      },
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "colors": ["Midnight", "Starlight", "Space Gray"],
+    "storage": ["256GB", "512GB", "1TB"],
+    "tags": ["laptop", "apple", "air"]
+  },
+  {
+    "id": "p03",
+    "slug": "iphone-11",
+    "name": "iPhone 11",
+    "brand": "Apple",
+    "category": "Phones",
+    "price": 599,
+    "discountPrice": 949,
+    "shortDescription": "Titanium design. A18 Pro chip. Pro camera system.",
+    "description": "iPhone 16 Pro features a strong and light titanium design, the A18 Pro chip for console-level gaming, and a versatile pro camera system with 5x Telephoto. The Action button and Camera Control put powerful shortcuts right at your fingertips.",
+    "rating": 4.9,
+    "reviewCount": 1204,
+    "stock": 65,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "A18 Pro"
+      },
+      {
+        "label": "Display",
+        "value": "6.3\" Super Retina XDR"
+      },
+      {
+        "label": "Camera",
+        "value": "48MP Fusion, 5x Telephoto"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 27 hours video"
+      },
+      {
+        "label": "Build",
+        "value": "Grade 5 titanium"
+      }
+    ],
+    "colors": ["Natural Titanium", "Blue Titanium", "Black Titanium"],
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "tags": ["phone", "apple", "pro", "featured"]
+  },
+  {
+    "id": "p04",
+    "slug": "iphone-16",
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "category": "Phones",
+    "price": 799,
+    "discountPrice": null,
+    "shortDescription": "A total powerhouse, all around.",
+    "description": "iPhone 16 brings the A18 chip, a redesigned camera system with a new Camera Control, and Apple Intelligence — all wrapped in a durable color-infused glass and aluminum design.",
+    "rating": 4.7,
+    "reviewCount": 861,
+    "stock": 80,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "A18"
+      },
+      {
+        "label": "Display",
+        "value": "6.1\" Super Retina XDR"
+      },
+      {
+        "label": "Camera",
+        "value": "48MP Fusion dual camera"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours video"
+      }
+    ],
+    "colors": ["Ultramarine", "Teal", "Pink", "White", "Black"],
+    "storage": ["128GB", "256GB", "512GB"],
+    "tags": ["phone", "apple"]
+  },
+  {
+    "id": "p05",
+    "slug": "ipad-pro-13-m4",
+    "name": "iPad Pro 13\" M4",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 1299,
+    "discountPrice": 1199,
+    "shortDescription": "Unbelievably thin. Absurdly powerful.",
+    "description": "iPad Pro with the M4 chip and stunning Ultra Retina XDR display (tandem OLED) is Apple's thinnest product ever, yet delivers extraordinary performance for creative professionals on the go.",
+    "rating": 4.8,
+    "reviewCount": 276,
+    "stock": 30,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "Apple M4"
+      },
+      {
+        "label": "Display",
+        "value": "13\" Ultra Retina XDR (tandem OLED)"
+      },
+      {
+        "label": "Thickness",
+        "value": "5.1mm"
+      },
+      {
+        "label": "Connector",
+        "value": "Thunderbolt / USB 4"
+      }
+    ],
+    "colors": ["Space Black", "Silver"],
+    "storage": ["256GB", "512GB", "1TB", "2TB"],
+    "tags": ["tablet", "apple", "pro", "featured"]
+  },
+  {
+    "id": "p06",
+    "slug": "ipad-air-11",
+    "name": "iPad Air 11\"",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 599,
+    "discountPrice": null,
+    "shortDescription": "Serious performance in a super-portable design.",
+    "description": "iPad Air is more versatile and capable than ever with the M2 chip, a beautiful Liquid Retina display, and support for Apple Pencil Pro — perfect for work, school, and creativity.",
+    "rating": 4.6,
+    "reviewCount": 412,
+    "stock": 55,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "Apple M2"
+      },
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Pencil",
+        "value": "Apple Pencil Pro support"
+      }
+    ],
+    "colors": ["Blue", "Purple", "Starlight", "Space Gray"],
+    "storage": ["128GB", "256GB", "512GB"],
+    "tags": ["tablet", "apple", "air"]
+  },
+  {
+    "id": "p07",
+    "slug": "airpods-2",
+    "name": "AirPods  2",
+    "brand": "Apple",
+    "category": "Audio",
+    "price": 249,
+    "discountPrice": 219,
+    "shortDescription": "Adaptive Audio. Now playing.",
+    "description": "AirPods 2 feature up to 2x more Active Noise Cancellation, Adaptive Audio that responds to your environment, and a Hearing Aid feature — all in a compact, comfortable design.",
+    "rating": 4.7,
+    "reviewCount": 2033,
+    "stock": 120,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Chip",
+        "value": "Apple H2"
+      },
+      {
+        "label": "ANC",
+        "value": "Active Noise Cancellation 2x"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours (ANC on)"
+      },
+      {
+        "label": "Case",
+        "value": "MagSafe, speaker & lanyard loop"
+      }
+    ],
+    "colors": ["White"],
+    "storage": [],
+    "tags": ["audio", "apple", "featured"]
+  },
+  {
+    "id": "p08",
+    "slug": "apple-watch-series-10",
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 429,
+    "discountPrice": 399,
+    "shortDescription": "Thinner. Bigger display. Smarter health tools.",
+    "description": "Apple Watch Series 10 features a larger, brighter display in a remarkably thin design, with advanced health sensors including sleep apnea notifications and the fastest charging yet.",
+    "rating": 4.6,
+    "reviewCount": 654,
+    "stock": 70,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Display",
+        "value": "Always-On Retina LTPO OLED"
+      },
+      {
+        "label": "Water resistance",
+        "value": "50 meters"
+      },
+      {
+        "label": "Charging",
+        "value": "Fast charge to 80% in 30 min"
+      },
+      {
+        "label": "Sensors",
+        "value": "ECG, blood oxygen, temperature"
+      }
+    ],
+    "colors": ["Jet Black", "Rose Gold", "Silver"],
+    "storage": ["42mm", "46mm"],
+    "tags": ["wearable", "apple"]
+  },
+  {
+    "id": "p09",
+    "slug": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 799,
+    "discountPrice": null,
+    "shortDescription": "Built for extremes. Precision engineered.",
+    "description": "Apple Watch Ultra 2 is the most rugged and capable Apple Watch, with a brighter display, precision dual-frequency GPS, and up to 36 hours of normal-use battery life for explorers and athletes.",
+    "rating": 4.9,
+    "reviewCount": 318,
+    "stock": 22,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Case",
+        "value": "49mm titanium"
+      },
+      {
+        "label": "Display",
+        "value": "3000 nits peak brightness"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 36 hours"
+      },
+      {
+        "label": "GPS",
+        "value": "Precision dual-frequency"
+      }
+    ],
+    "colors": ["Natural Titanium", "Black Titanium"],
+    "storage": ["49mm"],
+    "tags": ["wearable", "apple", "ultra", "featured"]
+  },
+  {
+    "id": "p10",
+    "slug": "keychron-q1-pro",
+    "name": "Keychron Q1 Pro",
+    "brand": "Keychron",
+    "category": "Accessories",
+    "price": 219,
+    "discountPrice": 189,
+    "shortDescription": "Wireless QMK/VIA custom mechanical keyboard.",
+    "description": "The Keychron Q1 Pro is a full CNC-machined aluminum body custom mechanical keyboard with QMK/VIA support, hot-swappable switches, and tri-mode connectivity (Bluetooth, 2.4GHz, wired).",
+    "rating": 4.7,
+    "reviewCount": 189,
+    "stock": 45,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1595225476474-0d54e4f6d4fd?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595225476474-0d54e4f6d4fd?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Layout",
+        "value": "75% hot-swappable"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth 5.1 / 2.4GHz / USB-C"
+      },
+      {
+        "label": "Switches",
+        "value": "Gateron Pro (hot-swap)"
+      },
+      {
+        "label": "Body",
+        "value": "CNC aluminum"
+      }
+    ],
+    "colors": ["Carbon Black", "Silver Gray"],
+    "storage": [],
+    "tags": ["keyboard", "mechanical", "featured"]
+  },
+  {
+    "id": "p11",
+    "slug": "logitech-mx-master-3s",
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "price": 99,
+    "discountPrice": 79,
+    "shortDescription": "Iconic performance. Quiet clicks.",
+    "description": "MX Master 3S refines the ergonomic design professionals love, with an 8K DPI sensor, quiet clicks, and MagSpeed electromagnetic scrolling that's precise and virtually silent.",
+    "rating": 4.8,
+    "reviewCount": 1520,
+    "stock": 90,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Sensor",
+        "value": "8000 DPI Darkfield"
+      },
+      {
+        "label": "Scroll wheel",
+        "value": "MagSpeed electromagnetic"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 70 days"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth / Logi Bolt"
+      }
+    ],
+    "colors": ["Graphite", "Pale Gray"],
+    "storage": [],
+    "tags": ["mouse", "logitech"]
+  },
+  {
+    "id": "p12",
+    "slug": "razer-viper-v3-pro",
+    "name": "Razer Viper V3 Pro",
+    "brand": "Razer",
+    "category": "Accessories",
+    "price": 159,
+    "discountPrice": null,
+    "shortDescription": "Esports-grade wireless gaming mouse.",
+    "description": "The Viper V3 Pro is engineered for esports professionals, featuring the Focus Pro 35K optical sensor, ultra-lightweight 54g design, and HyperPolling wireless technology up to 8000Hz.",
+    "rating": 4.8,
+    "reviewCount": 234,
+    "stock": 38,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Sensor",
+        "value": "Focus Pro 35K Optical"
+      },
+      {
+        "label": "Weight",
+        "value": "54g"
+      },
+      {
+        "label": "Polling rate",
+        "value": "Up to 8000Hz"
+      },
+      {
+        "label": "Switches",
+        "value": "Gen-3 Optical"
+      }
+    ],
+    "colors": ["Black", "White"],
+    "storage": [],
+    "tags": ["mouse", "gaming", "razer"]
+  },
+  {
+    "id": "p13",
+    "slug": "studio-display",
+    "name": "Apple Studio Display",
+    "brand": "Apple",
+    "category": "Monitors",
+    "price": 1599,
+    "discountPrice": 1499,
+    "shortDescription": "27-inch 5K Retina display.",
+    "description": "Studio Display features a 27-inch 5K Retina display with True Tone, wide color, and a built-in camera and studio-quality mic array powered by the A13 Bionic chip.",
+    "rating": 4.6,
+    "reviewCount": 145,
+    "stock": 18,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Panel",
+        "value": "27\" 5K Retina, 600 nits"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Ultra Wide, Center Stage"
+      },
+      {
+        "label": "Chip",
+        "value": "A13 Bionic"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker sound system"
+      }
+    ],
+    "colors": ["Silver"],
+    "storage": [],
+    "tags": ["monitor", "apple", "display", "featured"]
+  },
+  {
+    "id": "p14",
+    "slug": "dell-ultrasharp-32-4k",
+    "name": "Dell UltraSharp 32\" 4K",
+    "brand": "Dell",
+    "category": "Monitors",
+    "price": 899,
+    "discountPrice": 749,
+    "shortDescription": "Color-accurate 4K for creative professionals.",
+    "description": "The Dell UltraSharp 32\" 4K monitor delivers factory-calibrated color accuracy (Delta E<2), IPS Black technology for deeper contrast, and a comprehensive suite of connectivity options.",
+    "rating": 4.7,
+    "reviewCount": 98,
+    "stock": 26,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Panel",
+        "value": "32\" 4K IPS Black"
+      },
+      {
+        "label": "Color accuracy",
+        "value": "Delta E < 2"
+      },
+      {
+        "label": "Ports",
+        "value": "USB-C 90W, DP, HDMI"
+      }
+    ],
+    "colors": ["Platinum Silver"],
+    "storage": [],
+    "tags": ["monitor", "dell", "4k"]
+  },
+  {
+    "id": "p15",
+    "slug": "logitech-brio-4k",
+    "name": "Logitech Brio 4K",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "price": 199,
+    "discountPrice": 169,
+    "shortDescription": "Ultra HD webcam with HDR and RightLight 3.",
+    "description": "Brio 4K brings Ultra HD video, HDR, and RightLight 3 with auto light adjustment to your video calls, along with Windows Hello support for secure sign-in.",
+    "rating": 4.5,
+    "reviewCount": 401,
+    "stock": 60,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1587826080692-e26a63cbc5dc?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587826080692-e26a63cbc5dc?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Resolution",
+        "value": "4K Ultra HD @ 30fps"
+      },
+      {
+        "label": "Field of view",
+        "value": "65° / 78° / 90°"
+      },
+      {
+        "label": "HDR",
+        "value": "Supported with RightLight 3"
+      }
+    ],
+    "colors": ["Black"],
+    "storage": [],
+    "tags": ["webcam", "logitech"]
+  },
+  {
+    "id": "p16",
+    "slug": "samsung-t9-ssd-2tb",
+    "name": "Samsung T9 Portable SSD 2TB",
+    "brand": "Samsung",
+    "category": "Accessories",
+    "price": 199,
+    "discountPrice": 159,
+    "shortDescription": "Blazing-fast portable storage.",
+    "description": "The Samsung T9 delivers sequential read/write speeds up to 2,000MB/s, a shock-resistant design rated to survive a 3-meter drop, and USB 3.2 Gen 2x2 connectivity.",
+    "rating": 4.8,
+    "reviewCount": 723,
+    "stock": 100,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1531492746076-161ba9bf07de?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1531492746076-161ba9bf07de?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "2TB"
+      },
+      {
+        "label": "Speed",
+        "value": "Up to 2,000MB/s"
+      },
+      {
+        "label": "Interface",
+        "value": "USB 3.2 Gen 2x2"
+      },
+      {
+        "label": "Durability",
+        "value": "3m drop resistant"
+      }
+    ],
+    "colors": ["Black", "Blue", "Gray"],
+    "storage": ["1TB", "2TB", "4TB"],
+    "tags": ["ssd", "storage", "samsung", "featured"]
+  },
+  {
+    "id": "p17",
+    "slug": "sandisk-extreme-portable-1tb",
+    "name": "SanDisk Extreme Portable SSD 1TB",
+    "brand": "SanDisk",
+    "category": "Accessories",
+    "price": 129,
+    "discountPrice": 99,
+    "shortDescription": "Rugged, reliable, and pocket-sized.",
+    "description": "SanDisk Extreme Portable SSD offers IP65 water and dust resistance, up to 1050MB/s read speeds, and included password protection with 256-bit AES hardware encryption.",
+    "rating": 4.6,
+    "reviewCount": 512,
+    "stock": 85,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1531492746076-161ba9bf07de?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "1TB"
+      },
+      {
+        "label": "Speed",
+        "value": "Up to 1,050MB/s"
+      },
+      {
+        "label": "Protection",
+        "value": "IP65 rated"
+      }
+    ],
+    "colors": ["Black"],
+    "storage": ["500GB", "1TB", "2TB"],
+    "tags": ["ssd", "storage", "sandisk"]
+  },
+  {
+    "id": "p18",
+    "slug": "sony-wh-1000xm5",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 399,
+    "discountPrice": 349,
+    "shortDescription": "Industry-leading noise cancellation.",
+    "description": "The WH-1000XM5 headphones feature two processors controlling eight microphones for unprecedented noise cancellation, alongside exceptional sound quality tuned by Sony engineers.",
+    "rating": 4.8,
+    "reviewCount": 987,
+    "stock": 50,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=1200&h=1200&q=80",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "ANC",
+        "value": "Dual processor, 8 mics"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 30 hours"
+      },
+      {
+        "label": "Codec",
+        "value": "LDAC, AAC, SBC"
+      }
+    ],
+    "colors": ["Black", "Silver"],
+    "storage": [],
+    "tags": ["audio", "sony", "headphones", "featured"]
+  },
+  {
+    "id": "p19",
+    "slug": "anker-737-charger",
+    "name": "Anker 737 GaNPrime Charger",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 79,
+    "discountPrice": 59,
+    "shortDescription": "140W compact 3-port fast charger.",
+    "description": "The Anker 737 delivers 140W of GaNPrime power across three ports, fast enough to charge a MacBook Pro and two additional devices simultaneously from one compact brick.",
+    "rating": 4.7,
+    "reviewCount": 356,
+    "stock": 75,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Output",
+        "value": "140W max (GaNPrime)"
+      },
+      {
+        "label": "Ports",
+        "value": "2x USB-C, 1x USB-A"
+      }
+    ],
+    "colors": ["Black"],
+    "storage": [],
+    "tags": ["charger", "anker", "accessories"]
+  },
+  {
+    "id": "p20",
+    "slug": "twelve-south-bookarc",
+    "name": "Twelve South BookArc",
+    "brand": "Twelve South",
+    "category": "Accessories",
+    "price": 59,
+    "discountPrice": null,
+    "shortDescription": "Vertical MacBook stand for a clutter-free desk.",
+    "description": "BookArc holds your closed MacBook vertically, freeing up desk space while it charges — an elegant, minimalist accessory for a clean multi-monitor setup.",
+    "rating": 4.5,
+    "reviewCount": 210,
+    "stock": 65,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&h=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&h=1200&q=80"
+    ],
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "Aluminum & silicone"
+      },
+      {
+        "label": "Compatibility",
+        "value": "All MacBook models"
+      }
+    ],
+    "colors": ["Space Gray", "Silver"],
+    "storage": [],
+    "tags": ["stand", "accessories", "desk"]
+  }
+]
